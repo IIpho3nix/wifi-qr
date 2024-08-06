@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 read -p "Enter SSID (Wi-Fi network name): " SSID
 read -s -p "Enter Wi-Fi Password: " Password
 echo
